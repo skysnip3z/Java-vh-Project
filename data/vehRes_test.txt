@@ -1,0 +1,5 @@
+// Vehicle Reservation data from system
+// resNo, vehID, custID, startDate, noOfDays
+
+000000, TF-63403, AA-123456, 25-03-2019, 7
+000001, TF-63403, AA-123456, 25-03-2019, 7

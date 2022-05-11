@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Car\ class\ to\ enable\ the\ use\ of\ Car\ objects.\r\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getbodyType()
+comment3.params=
+comment3.target=int\ getNoD()
+comment4.params=
+comment4.target=int\ getNoS()
+comment5.params=
+comment5.target=void\ printDetails()
+comment6.params=iScan
+comment6.target=void\ readData(java.util.Scanner)
+numComments=7

@@ -1,0 +1,7 @@
+// Customer data from system
+// customerID, surname, firstName, otherInitials, title
+
+AA-674607, Newton, David, E, Dr
+AA-481072, Gregson, Brian, R T, Mr
+AA-711277, Evans, David, , Dr
+AA-358312, Smith, Sara, C, Ms

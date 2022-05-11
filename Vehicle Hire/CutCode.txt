@@ -1,0 +1,17 @@
+	    group = xScan.next().trim();
+            vehID = xScan.next().trim();
+            regNo = xScan.next().trim();
+            make = xScan.next().trim();
+                
+            Vehicle v1 = new Vehicle(group, vehID, regNo, make);
+            v1.printDetails();
+            xScan.nextLine();
+
+        // String isDouble = sScan.next().trim();
+        // Double cEng = new Double(isDouble);
+        // engSize = cEng;
+
+
+        // String isInt = sScan.next().trim();
+        // Integer cMile = new Integer(isInt);
+        // milage = cMile;

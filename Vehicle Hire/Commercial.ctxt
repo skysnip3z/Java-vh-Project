@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Commercial
+comment0.text=\r\n\ Commercial\ abstract\ class\ to\ extend\ for\ the\ use\ of\ other\ objects.\r\n
+comment1.params=
+comment1.target=Commercial()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n\ \r\n
+comment2.params=
+comment2.target=int\ getPayload()
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=iScan
+comment4.target=void\ readData(java.util.Scanner)
+numComments=5

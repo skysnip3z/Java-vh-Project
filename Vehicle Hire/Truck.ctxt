@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\r\n\ Truck\ class\ to\ enable\ the\ use\ of\ Truck\ objects.\r\n
+comment1.params=
+comment1.target=Truck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Van\r\n\ \r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=iScan
+comment3.target=void\ readData(java.util.Scanner)
+numComments=4
